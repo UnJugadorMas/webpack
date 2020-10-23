@@ -18,6 +18,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e3e89fac-5c89-4e54-a2ea-5689e273bb3f" name="Default Changelist" comment="21 octubre 16:40">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603286293121</updated>
       <workItem from="1603286295369" duration="4382000" />
-      <workItem from="1603473320597" duration="276000" />
+      <workItem from="1603473320597" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="prueba por si las dudas">
       <created>1603288884433</created>
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603473436175</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="23 de octubre">
+      <created>1603473601162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603473601162</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
