@@ -20,7 +20,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1jBnKi2DO6ddWlCc0ljZhrNYs2S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603286293121</updated>
       <workItem from="1603286295369" duration="4382000" />
-      <workItem from="1603473320597" duration="1338000" />
+      <workItem from="1603473320597" duration="2434000" />
     </task>
     <task id="LOCAL-00001" summary="prueba por si las dudas">
       <created>1603288884433</created>
@@ -101,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603473601162</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="23 de octubre">
+      <created>1603474840698</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603474840698</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,5 +159,9 @@
       <screen x="46" y="27" width="1320" height="741" />
     </state>
     <state x="195" y="31" width="1022" height="737" key="SettingsEditor/46.27.1320.741@46.27.1320.741" timestamp="1603288733096" />
+    <state x="301" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603474846515">
+      <screen x="46" y="27" width="1320" height="741" />
+    </state>
+    <state x="301" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/46.27.1320.741@46.27.1320.741" timestamp="1603474846515" />
   </component>
 </project>
